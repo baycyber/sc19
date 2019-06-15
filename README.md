@@ -1,5 +1,5 @@
-#Bay Area Summer Camps 2019
-###Bay Area Summer Camp 2019 Materials
+# Bay Area Summer Camps 2019
+### Bay Area Summer Camp 2019 Materials
 
 This Github Repository will host all files necessary for the Summer Camps.
 
